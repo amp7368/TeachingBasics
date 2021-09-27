@@ -1,4 +1,4 @@
-package java.cheatSheet;
+package work.cheatSheet;
 
 public class CheatSheetObject {
 

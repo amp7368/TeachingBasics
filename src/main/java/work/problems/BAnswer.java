@@ -1,4 +1,4 @@
-package java.problems;
+package work.problems;
 
 // what is the sum of all even numbers below 1,000,000
 public class BAnswer {

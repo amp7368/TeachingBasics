@@ -1,6 +1,7 @@
-package java.problems;
+package work.problems;
 
-import sam.java.utils.NumberUtils;
+
+import work.utils.NumberUtils;
 
 // what is the sum of all the prime numbers below 1,000,000
 public class EAnswer {

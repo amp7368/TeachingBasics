@@ -1,4 +1,4 @@
-package java.problems;
+package work.problems;
 
 // what is the 123,456th prime?
 public class D {

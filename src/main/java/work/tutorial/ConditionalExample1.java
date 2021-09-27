@@ -1,4 +1,4 @@
-package java.tutorials;
+package work.tutorial;
 
 public class ConditionalExample1 {
     public static void main(String[] args) {

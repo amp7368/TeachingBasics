@@ -1,6 +1,7 @@
-package java.problems;
+package work.problems;
 
-import sam.java.utils.NumberUtils;
+
+import work.utils.NumberUtils;
 
 // what is the 123456th prime?
 public class DAnswer {
